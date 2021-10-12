@@ -1,0 +1,177 @@
+[
+    {
+        "away_conference": "SEC",
+        "away_score": "None",
+        "away_team": "Auburn",
+        "home_conference": "SEC",
+        "home_score": "None",
+        "home_team": "Arkansas",
+        "id": 401282104,
+        "lines": [
+            {
+                "awayMoneyline": 155,
+                "formattedSpread": "Arkansas -3.5",
+                "homeMoneyline": -180,
+                "overUnder": "53.5",
+                "overUnderOpen": "53.0",
+                "provider": "Bovada",
+                "spread": "-3.5",
+                "spreadOpen": "-3.5"
+            }
+        ],
+        "season": 2021,
+        "season_type": "regular",
+        "start_date": "None",
+        "week": 7
+    },
+    {
+        "away_conference": "SEC",
+        "away_score": "None",
+        "away_team": "Kentucky",
+        "home_conference": "SEC",
+        "home_score": "None",
+        "home_team": "Georgia",
+        "id": 401282105,
+        "lines": [
+            {
+                "awayMoneyline": 1000,
+                "formattedSpread": "Georgia -23.5",
+                "homeMoneyline": -2200,
+                "overUnder": "44.5",
+                "overUnderOpen": "44.5",
+                "provider": "Bovada",
+                "spread": "-23.5",
+                "spreadOpen": "-23.5"
+            }
+        ],
+        "season": 2021,
+        "season_type": "regular",
+        "start_date": "None",
+        "week": 7
+    },
+    {
+        "away_conference": "SEC",
+        "away_score": "None",
+        "away_team": "Florida",
+        "home_conference": "SEC",
+        "home_score": "None",
+        "home_team": "LSU",
+        "id": 401282106,
+        "lines": [
+            {
+                "awayMoneyline": -370,
+                "formattedSpread": "Florida -10.0",
+                "homeMoneyline": 285,
+                "overUnder": "58.5",
+                "overUnderOpen": "58.0",
+                "provider": "Bovada",
+                "spread": "10.0",
+                "spreadOpen": "10.0"
+            }
+        ],
+        "season": 2021,
+        "season_type": "regular",
+        "start_date": "None",
+        "week": 7
+    },
+    {
+        "away_conference": "SEC",
+        "away_score": "None",
+        "away_team": "Alabama",
+        "home_conference": "SEC",
+        "home_score": "None",
+        "home_team": "Mississippi State",
+        "id": 401282107,
+        "lines": [
+            {
+                "awayMoneyline": -950,
+                "formattedSpread": "Alabama -17.5",
+                "homeMoneyline": 600,
+                "overUnder": "57.5",
+                "overUnderOpen": "59.0",
+                "provider": "Bovada",
+                "spread": "17.5",
+                "spreadOpen": "17.0"
+            }
+        ],
+        "season": 2021,
+        "season_type": "regular",
+        "start_date": "None",
+        "week": 7
+    },
+    {
+        "away_conference": "SEC",
+        "away_score": "None",
+        "away_team": "Texas A&M",
+        "home_conference": "SEC",
+        "home_score": "None",
+        "home_team": "Missouri",
+        "id": 401282108,
+        "lines": [
+            {
+                "awayMoneyline": -310,
+                "formattedSpread": "Texas A&M -9.0",
+                "homeMoneyline": 255,
+                "overUnder": "60.5",
+                "overUnderOpen": "61.0",
+                "provider": "Bovada",
+                "spread": "9.0",
+                "spreadOpen": "9.0"
+            }
+        ],
+        "season": 2021,
+        "season_type": "regular",
+        "start_date": "None",
+        "week": 7
+    },
+    {
+        "away_conference": "SEC",
+        "away_score": "None",
+        "away_team": "Vanderbilt",
+        "home_conference": "SEC",
+        "home_score": "None",
+        "home_team": "South Carolina",
+        "id": 401282109,
+        "lines": [
+            {
+                "awayMoneyline": 750,
+                "formattedSpread": "South Carolina -18.5",
+                "homeMoneyline": -1400,
+                "overUnder": "51.0",
+                "overUnderOpen": "51.0",
+                "provider": "Bovada",
+                "spread": "-18.5",
+                "spreadOpen": "-20.0"
+            }
+        ],
+        "season": 2021,
+        "season_type": "regular",
+        "start_date": "None",
+        "week": 7
+    },
+    {
+        "away_conference": "SEC",
+        "away_score": "None",
+        "away_team": "Ole Miss",
+        "home_conference": "SEC",
+        "home_score": "None",
+        "home_team": "Tennessee",
+        "id": 401282110,
+        "lines": [
+            {
+                "awayMoneyline": -150,
+                "formattedSpread": "Ole Miss -3.0",
+                "homeMoneyline": 130,
+                "overUnder": "80.5",
+                "overUnderOpen": "78.0",
+                "provider": "Bovada",
+                "spread": "3.0",
+                "spreadOpen": "3.0"
+            }
+        ],
+        "season": 2021,
+        "season_type": "regular",
+        "start_date": "None",
+        "week": 7
+    }
+]
